@@ -118,16 +118,16 @@ fun LandscapeLayout(
                         .fillMaxWidth(),
                     horizontalArrangement = Arrangement.SpaceBetween
                 ) {
-//                    CuteButton(
-//                        text = "!",
-//                        color = ButtonDefaults.buttonColors(MaterialTheme.colorScheme.background),
-//                        shouldVibrate = vibration,
-//                        modifier = Modifier
-//                            .weight(0.15f),
-//                        onClick = {
-//                            viewModel.handleAction(CalcAction.AddToField("!"))
-//                        }
-//                    )
+                    CuteButton(
+                        text = "!",
+                        color = ButtonDefaults.buttonColors(MaterialTheme.colorScheme.background),
+                        shouldVibrate = vibration,
+                        modifier = Modifier
+                            .weight(0.15f),
+                        onClick = {
+                            viewModel.handleAction(CalcAction.AddToField("!"))
+                        }
+                    )
                     CuteButton(
                         text = "%",
                         color = ButtonDefaults.buttonColors(MaterialTheme.colorScheme.background),

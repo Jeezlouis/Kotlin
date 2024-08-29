@@ -63,15 +63,15 @@ object Evaluator {
             implementation = { a, b -> a.pow(b) }
         }
 
-//        unaryOperator {
-//            symbol = '!'
-//            isPrefix = false
-//            implementation = {
-//                if (it < 0) throw KevalInvalidArgumentException("factorial of a negative number")
-//                if (floor(it) != it) throw KevalInvalidArgumentException("factorial of a non-integer")
-//                (1..it.toInt()).fold(1.0) { acc, i -> acc * i }
-//            }
-//        }
+        unaryOperator {
+            symbol = '!'
+            isPrefix = false
+            implementation = {
+                if (it < 0) throw KevalInvalidArgumentException("factorial of a negative number")
+                if (floor(it) != it) throw KevalInvalidArgumentException("factorial of a non-integer")
+                (1..it.toInt()).fold(1.0) { acc, i -> acc * i }
+            }
+        }
 
         unaryOperator {
             symbol = '√'
