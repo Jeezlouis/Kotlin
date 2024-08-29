@@ -1,18 +1,11 @@
 <p align=center><image src="https://i.ibb.co/0DQR8x8/icon2.png" height="200" /></p>
 <h1 align="center">CuteCalc</h1>
 <p align="center">CuteCalc is a lightweight, fast and open-source Android calculator app written in Kotlin & Jetpack Compose</p>
-<p align="center">
-  <image src="https://img.shields.io/github/downloads/sosauce/CuteCalc/total?style=for-the-badge&logo=GitHub&color=%23F9B3A9"/>
-  <image src="https://img.shields.io/github/v/release/sosauce/CuteCalc?style=for-the-badge&logo=GitHub&color=%23F9B3A9"/>
-  <image src="https://img.shields.io/badge/Kotlin-100%25-%23F9B3A9?style=for-the-badge&logo=Kotlin"/>
-</p>
+
 
 <p align="center">
  <a href="https://github.com/sosauce/CuteCalc/releases">
    <image src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" height="80"/>
- </a>
-  <a href="https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc">
-   <image src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="80"/>
  </a>
 </p>
 
@@ -51,7 +44,7 @@
 ---
 <h1>❤️ Support</h1>
 
-<p>You can support me by donating on my PayPal: https://bit.ly/sosaucePayPal. Thank you so much for the support ❤️</p>
+<p>You can support me by being happy. ❤️</p>
 
 ---
 
